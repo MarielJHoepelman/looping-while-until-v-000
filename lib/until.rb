@@ -3,5 +3,5 @@ def using_until(counter)
     until counter == 10
       puts "Wingardium Leviosa"
       counter += 1
-    end      
+    end
 end
